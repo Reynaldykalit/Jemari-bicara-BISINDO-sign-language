@@ -14,7 +14,7 @@ Anda dapat mengunduh dan mencoba langsung file APK aplikasi Android melalui hala
 
 ## 🚀 Fitur Utama
 
-- **Penerjemahan Real-time:** Membaca dan menerjemahkan gestur tangan BISINDO secara cepat & akurat secara offline.
+- **Penerjemahan :** Membaca dan menerjemahkan gestur tangan BISINDO secara cepat & akurat secara offline.
 - **Model TFLite & MediaPipe:** Ekstraksi landmark tangan dan klasifikasi gestur berbasis arsitektur YOLO & LSTM.
 - **Offline First:** Dapat dijalankan sepenuhnya tanpa membutuhkan koneksi internet.
 
