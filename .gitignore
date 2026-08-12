@@ -49,3 +49,12 @@ zcahce/
 *.tmp
 Thumbs.db
 
+# Laporan & Dokumentasi Internal
+Jawaban_Dosen_Prediksi_Bisindo.*
+Laporan_Jawaban_Prediksi_Bisindo.*
+flutter_01.png
+flutter_02.png
+*.docx
+*.pdf
+
+
