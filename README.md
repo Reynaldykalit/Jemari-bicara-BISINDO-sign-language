@@ -1,16 +1,28 @@
-# jemari_bicara
+# Jemari Bicara (BISINDO Sign Language Translator)
 
-A new Flutter project.
+An offline mobile application for **BISINDO (Indonesian Sign Language)** gesture-to-text translation using **YOLO** & **TensorFlow Lite**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Download APK Siap Pakai
 
-A few resources to get you started if this is your first Flutter project:
+Anda dapat mengunduh dan mencoba langsung file APK aplikasi Android melalui halaman Release resmi berikut:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+👉 **[Download APK Jemari Bicara di GitHub Releases](https://github.com/Reynaldykalit/Jemari-bicara-BISINDO-sign-language/releases)**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Fitur Utama
+
+- **Penerjemahan Real-time:** Membaca dan menerjemahkan gestur tangan BISINDO secara cepat & akurat secara offline.
+- **Model TFLite & MediaPipe:** Ekstraksi landmark tangan dan klasifikasi gestur berbasis arsitektur YOLO & LSTM.
+- **Offline First:** Dapat dijalankan sepenuhnya tanpa membutuhkan koneksi internet.
+
+---
+
+## 🛠️ Teknologi & Tools
+
+- **Framework:** Flutter & Dart
+- **AI / ML:** TensorFlow Lite, YOLO, MediaPipe
+- **Target Platform:** Android (ARM64-v8a)
+
